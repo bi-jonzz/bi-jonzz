@@ -1,4 +1,5 @@
-## Hi there 👋
+https://github-profile-trophy.vercel.app/?username=bi-jonzz&row=2&column=3
+
 
 <!--
 **bi-jonzz/bi-jonzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
