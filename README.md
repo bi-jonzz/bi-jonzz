@@ -2,6 +2,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=bi-jonzz)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bi-jonzz)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bi-jonzz&show_icons=true&theme=radical)
 
 <!--
 **bi-jonzz/bi-jonzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
